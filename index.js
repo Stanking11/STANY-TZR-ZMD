@@ -66,7 +66,7 @@ async function startRaven() {
     setInterval(() => {
       const date = new Date();
       client.updateProfileStatus(
-        `📅 DATE/TIME ⌚️  ${date.toLocaleString('en-US', { timeZone: 'Africa/Tanzabia' })}  ⏲️ DAY ⏰️  ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Tanzania'})}.\n\n𓅂Raven is currently active and running𓅂.`
+        `📅 DATE/TIME ⌚️  ${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })}  ⏲️ DAY ⏰️  ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}.\n\n𓅂Raven is currently active and running𓅂.`
       );
     }, 10 * 1000);
   }
@@ -248,7 +248,7 @@ if (!client.public && !mek.key.fromMe && chatUpdate.type === "notify") return;
       console.log(color("Congrats, RAVEN-BOT has successfully connected to this server", "green"));
       console.log(color("Follow me on Instagram as Nick_hunter9", "red"));
       console.log(color("Text the bot number with menu to check my command list"));
-      client.sendMessage(client.user.id, { text: `𝗕𝗼𝘁 𝗵𝗮𝘀 𝗦𝘁𝗮𝗿𝘁𝗲𝗱 » » »【𝗥𝗔𝗩𝗘𝗡-𝗕𝗢𝗧】 ` });
+      client.sendMessage(client.user.id, { text: `𝗕𝗼𝘁 𝗵𝗮𝘀 𝗦𝘁𝗮𝗿𝘁𝗲𝗱 » » »【©𝚂𝚃𝙰𝙽𝚈 𝚃𝚉𝚁 𝚉𝙼𝙳】 ` });
     }
   });
 
