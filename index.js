@@ -159,7 +159,7 @@ if (!client.public && !mek.key.fromMe && chatUpdate.type === "notify") return;
             const currentTime = Date.now();
       if (currentTime - lastTextTime >= messageDelay) {
         await client.sendMessage(callerId, {
-          text: "Anticall is active, Only texts are allowed"
+          text: "Anticall is active by STANY, Only texts are allowed"
         });
         lastTextTime = currentTime;
       } else {
