@@ -151,7 +151,7 @@ async function handleMessageRevocation(client, revocationMessage) {
 
 if (deletedBy.includes(client.user.id) || sentBy.includes(client.user.id)) return;
 
-    let notificationText = `░𝗥𝗔𝗩𝗘𝗡 𝗔𝗡𝗧𝗜𝗗𝗘𝗟𝗘𝗧𝗘 𝗥𝗘𝗣𝗢𝗥𝗧░\n\n` +
+    let notificationText = '𝗦𝗧𝗔𝗡𝗬 𝗭𝗠𝗗 𝗔𝗡𝗧𝗜𝗗𝗘𝗟𝗘𝗧𝗘 𝗥𝗘𝗣𝗢𝗥𝗧░\n\n` +
       ` 𝗗𝗲𝗹𝗲𝘁𝗲𝗱 𝗯𝘆: ${deletedByFormatted}\n\n`
 
     if (originalMessage.message?.conversation) {
@@ -335,7 +335,7 @@ if (antilinkall === 'TRUE' && body.includes('https://') && !Owner && isBotAdmin 
                    participant: ki
                 } 
              }).then(() => client.groupParticipantsUpdate(m.chat, [ki], 'remove')); 
- client.sendMessage(m.chat, {text:`𝗛𝗲𝘆 @${ki.split("@")[0]}👋\n\n𝗦𝗲𝗻𝗱𝗶𝗻𝗴 𝗟𝗶𝗻𝗸𝘀 𝗶𝘀 𝗣𝗿𝗼𝗵𝗶𝗯𝗶𝘁𝗲𝗱 𝗶𝗻 𝘁𝗵𝗶𝘀 𝗚𝗿𝗼𝘂𝗽 !`, contextInfo:{mentionedJid:[ki]}}, {quoted:m}); 
+ client.sendMessage(m.chat, {text:`𝗛𝗲𝘆 @${ki.split("@")[0]}👋\n\n𝗦𝗲𝗻𝗱𝗶𝗻𝗴 𝗟𝗶𝗻𝗸𝘀 𝗶𝘀 𝗣𝗿𝗼𝗵𝗶𝗯𝗶𝘁𝗲𝗱 𝗶𝗻 𝘁𝗵𝗶𝘀 𝗚𝗿𝗼𝘂𝗽 𝗯𝘆 𝗦𝗧𝗔𝗡𝗬-𝗧𝗘𝗖𝗛 !`, contextInfo:{mentionedJid:[ki]}}, {quoted:m}); 
        }   
   
   //========================================================================================================================//
@@ -597,8 +597,8 @@ client.sendMessage(m.chat, {
                                 showAdAttribution: true,
                                 title: `©𝚂𝚃𝙰𝙽𝚈 𝚃𝚉𝚁 𝚉𝙼𝙳`,
                                 body: `${runtime(process.uptime())}`,
-                                thumbnail: fs.readFileSync('./Media/Raven.jpg'),
-                                sourceUrl: 'https://wa.me/255750878502?text=Hello👋+STANYTECH+Nihostie+Bot+Mkuu+😔',
+                                thumbnail: fs.readFileSync('./Media/Stan.jpg'),
+                                sourceUrl: 'https://wa.me/255610148131?text=Hello👋+STANYTECH+Nihostie+Bot+Mkuu+😔',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
                             }
@@ -796,7 +796,7 @@ const fetch = require("node-fetch");
                     `https://api.heroku.com/apps/${appname}/builds`,
                     {
                         source_blob: {
-                            url: "https://github.com/HunterNick2/RAVEN-BOT/tarball/main",
+                            url: "https://github.com/Stanking11/STANY-TZR-ZMD/tarball/main",
                         },
                     },
                     {
@@ -823,7 +823,7 @@ const fetch = require("node-fetch");
 //========================================================================================================================//		      
 		      case "credits": 
   
-              client.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/Jp8zoUC.jpeg' }, caption: `We express sincere gratitude and acknowledgement to the following:\n\n -Dika Ardnt ➪ Indonesia\n - Writing the base code using case method\nhttps://github.com/DikaArdnt\n\n -Adiwajshing ➪ India\n - Writing and Coding the bot's library (baileys)\nhttps://github.com/WhiskeySockets/Baileys\n\n -WAWebSockets Discord Server community\n-Maintaining and reverse engineering the Web Sockets\nhttps://discord.gg/WeJM5FP9GG\n\n - Nick Hunter ➪ Kenya\n - Actively compiling and debugging parts of this bot script\nhttps://github.com/HunterNick2\n\n - Keithkeizzah (Ghost) ➪ Kenya\n - Compiling and debugging parts of this bot script\nhttps://github.com/Keithkeizzah\n\n - Fortunatus Mokaya ➪ Kenya\n - Founder of the bot Base\nhttps://github.com/Fortunatusmokaya\n\n Stany `}, { quoted: m}); 
+              client.sendMessage(m.chat, { image: { url: 'https://files.catbox.moe/7jle25.jpg' }, caption: `We express sincere gratitude and acknowledgement to the following:\n\n -Dika Ardnt ➪ Indonesia\n - Writing the base code using case method\nhttps://github.com/DikaArdnt\n\n -Adiwajshing ➪ India\n - Writing and Coding the bot's library (baileys)\nhttps://github.com/WhiskeySockets/Baileys\n\n -WAWebSockets Discord Server community\n-Maintaining and reverse engineering the Web Sockets\nhttps://discord.gg/WeJM5FP9GG\n\n - Nick Hunter ➪ Kenya\n - Actively compiling and debugging parts of this bot script\nhttps://github.com/HunterNick2\n\n - Keithkeizzah (Ghost) ➪ Kenya\n - Compiling and debugging parts of this bot script\nhttps://github.com/Keithkeizzah\n\n - Fortunatus Mokaya ➪ Kenya\n - Founder of the bot Base\nhttps://github.com/Fortunatusmokaya\n\n Stany `}, { quoted: m}); 
                
 		      break;
 
@@ -832,7 +832,7 @@ const fetch = require("node-fetch");
 		  let [poll, opt] = text.split("|")
 
 if (text.split("|") < 2)
-                return m.reply(`Wrong format::\nExample:- poll who is the best president|Putin, Ruto`);
+                return m.reply(`Wrong format::\nExample:- poll who is the best president|Putin, Magufuli`);
 
 let options = []
             for (let i of opt.split(',')) {
@@ -899,7 +899,7 @@ const path = require("path");
                 {
                   document: { url: outputPath },
                   mimetype: "audio/mp3",
-		  caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 𝗥𝗔𝗩𝗘𝗡-𝗕𝗢𝗧",
+		  caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 𝗦𝗧𝗔𝗡𝗬-𝗧𝗭𝗥-𝗭𝗠𝗗",
                   fileName: outputFileName,
                 },
                 { quoted: m }
@@ -1025,7 +1025,7 @@ const cheerio = require('cheerio');
 	      case 'ice': {
 		      var mumaker = require("mumaker");
 		     if (!text || text == "") {
-      m.reply("Example Usage : " + prefix + "Ice Nick");
+      m.reply("Example Usage : " + prefix + "Ice 𝗦𝗧𝗔𝗡𝗬");
       return;
     }
      try {
@@ -1035,7 +1035,7 @@ const cheerio = require('cheerio');
       image: {
         url: _0x295.image
       },
-      caption: `GENERATED BY RAVEN-BOT`
+      caption: `GENERATED BY STANY-TZR-ZMD`
     });
   } catch (_0x180d) {
     m.reply(_0x180d);
@@ -1057,7 +1057,7 @@ const cheerio = require('cheerio');
       image: {
         url: _029a96e5.image
       },
-      caption: `GENERATED BY RAVEN-BOT`
+      caption: `GENERATED BY STANY-TZR-ZMD `
     });
   } catch (_0180d034) {
     m.reply(_0180d034);
@@ -1069,7 +1069,7 @@ const cheerio = require('cheerio');
 	      case 'impressive': {
 		      var mumaker = require("mumaker");
 		     if (!text || text == "") {
-      m.reply("Example Usage : " + prefix + "impressive Nick");
+      m.reply("Example Usage : " + prefix + "impressive Zhou");
       return;
     }
      try {
@@ -1079,7 +1079,7 @@ const cheerio = require('cheerio');
       image: {
         url: _0x29a96em5.image
       },
-      caption: `GENERATED BY RAVEN-BOT`
+      caption: `GENERATED BY STANY-TZR-ZMD`
     });
   } catch (_0x18d034) {
     m.reply(_0x18d034);
@@ -1103,7 +1103,7 @@ m.reply("*Wait a moment...*");
       image: {
         url: hunte.image
       },
-      caption: `GENERATED BY RAVEN-BOT`
+      caption: `GENERATED BY STANY-TZR-ZMD`
     }, {
       quoted: m
     });
@@ -1129,7 +1129,7 @@ m.reply("*Wait a moment...*");
       image: {
         url: hunterr.image
       },
-      caption: `GENERATED BY RAVEN-BOT`
+      caption: `GENERATED BY STANY-TZR-ZMD`
     }, {
       quoted: m
     });
@@ -1155,7 +1155,7 @@ m.reply("*Wait a moment...*");
       image: {
         url: hunteer.image
       },
-      caption: `GENERATED BY RAVEN-BOT`
+      caption: `GENERATED BY STANY-TZR-ZMD`
     }, {
       quoted: m
     });
@@ -1180,7 +1180,7 @@ m.reply("*Wait a moment...*");
       image: {
         url: hunteqr.image
       },
-      caption: `GENERATED BY RAVEN-BOT`
+      caption: `GENERATED BY STANY-TZR-ZMD`
     }, {
       quoted: m
     });
@@ -1204,7 +1204,7 @@ m.reply("*Wait a moment...*");
       image: {
         url: _0x29a96e5.image
       },
-      caption: `GENERATED BY RAVEN-BOT`
+      caption: `GENERATED BY STANY-TZR-ZMD`
     });
   } catch (_0x180d034) {
     m.reply(_0x180d034);
@@ -1238,7 +1238,7 @@ m.reply("*Wait a moment...*");
 	      case 'devil':{
 		      var mumaker = require("mumaker");
 		          if (!text || text == "") {
-      m.reply("Example Usage : " + prefix + "Devil Nick");
+      m.reply("Example Usage : " + prefix + "STANY");
       return;
     }
      try {
@@ -1248,7 +1248,7 @@ m.reply("*Wait a moment...*");
       image: {
         url: _0x9a96e.image
       },
-      caption: `GENERATED BY RAVEN-BOT`
+      caption: `GENERATED BY STANY-TZR-ZMD`
     });
   } catch (_0x80d03) {
     m.reply(_0x80d03);
@@ -1270,7 +1270,7 @@ m.reply("*Wait a moment...*");
       image: {
         url: _0x29a996e.image
       },
-      caption: `GENERATED BY RAVEN-BOT`
+      caption: `GENERATED BY STANY-TZR-ZMD`
     });
   } catch (_0x180d063) {
     m.reply(_0x180d063);
