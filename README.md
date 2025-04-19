@@ -1,80 +1,90 @@
-# ©𝚂𝚃𝙰𝙽𝚈 𝚃𝚉𝚁 𝚉𝙼𝙳
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=STANY TZR ZMD-;MULTI+DEVICE+WHATSAPP+BOT;CODED+BY+STANYTECH;PUBLIC+RELEASED; ...;TEAM STANY-TECH." 
-  </p>
+---
+
+<a><img src='https://files.catbox.moe/xmo2xp.jpg'/></a>
+
+---
+    
+> **`Updated To` The Version 2.0**
+---
+
+```
+STANY TECH 👑
+```
+---
+
+
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=✰PANHWAR-MD-WHATSAPP-BOT✰" alt="Typing SVG" /></a>
+
+---
+### 1. Fork This Repository
+
+**Start by forking this repository to your own GitHub account. Click the button below to fork:**
+
+  <a href="https://github.com/Stanking11/STANY-TZR-ZMD"><img title="STANY-TECH" src="https://img.shields.io/badge/FORK-TZR ZMD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  
+### 2. Get Session ID 
+
+**You will need a session ID to run the STANY TZR ZMD. Click the button below to obtain your session ID.if any error in loading site try vpn:**
+
+> **Get Pair Code (Session ID)**
+
+<a href='https://stany-tech-o4bs.onrender.com' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
+
+<h2 align="center">Deployment Section</h2>
+
+---
+
+<h4 align="center">1. Heroku</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+---
+
+<p align="center">
+<a href='https://dashboard.heroku.com/new?button-url=https://github.com/Stanking11/STANY-TZR-ZMD&template=https://github.com/Stanking11/STANY-TZR-ZMD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/< width=250 height=45/p></a>
+
+---
+
+<h4 align="center">2. Railway</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+---
+
+<p align="center">
+<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-FF8700?style=for-the-badge&logo=railway&logoColor=white'/< width=250 height=45/p></a>
+
+---
+
+<h4 align="center">3. Render</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+---
   
 <p align="center">
+<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=250 height=45/p></a>
 
-[![Nick Hunter](https://files.catbox.moe/7jle25.jpg?lenght=50width=50)](https://github.com/HunterNick2)
-</p>
+---
+
+<h4 align="center">4. Netlify</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+---
+ 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=STANY+WHATSAPP+BOT" alt="">
-</p>
+<a href='https://app.netlify.com/' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-Netlify Deploy-CC00FF?style=for-the-badge&logo=netlify&logoColor=white'/< width=250 height=45/p></a> </a>
+
+---
+
+<h4 align="center">5. Replit</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+---
+
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-©𝚂𝚃𝙰𝙽𝚈 𝚃𝚉𝚁 𝚉𝙼𝙳-blue.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/HunterNick2?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/HunterNick2?label=Followers&style=social"></a>
-<a href="https://github.com/HunterNick2/RAVEN-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HunterNick2/RAVEN-BOT?&style=social"></a>
-<a href="https://github.com/HunterNick2/RAVEN-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/HunterNick2/RAVEN-BOT?style=social"></a>
-<a href="https://github.com/HunterNick2/RAVEN-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HunterNick2/RAVEN-BOT?label=Watching&style=social"></a>
-</p>
+<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=250 height=45/p></a> </a>
  
 
-## ` Contact me`
-
-<p align="center">
-
-<a href="https://api.whatsapp.com/send?phone=255750878502&text=Hello+STANYTECH+dev+i+need+your+Help+on..."><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-
-***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/Baileys)***
-
-
-## DISCLAIMER
-- Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting!
-
-## FEATURES
-This is a highly customisable simple whatsapp bot with group management features and few media commands and chatgpt courtesy of Openai.
-
-Our AI features use random APIs to run, so sometimes they may be down.
-
-# SET-UP
-
-## ` Fork this repo`
-<p align="centre">
-<a href="https://github.com/Stanking11/STANY-TZR-ZMD/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="FORK TZR ZMD" width="160"></a>
-<p/>
-
-  
-## ` Pair onrender`
-<p align="centre">
-<a href="https://pairing-raven.onrender.com"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-green?style=for-the-badge&logo=render"></a>
-<p/>
-            
-
-###  ` Deploy On Heroku`
-
-
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/HunterNick2/RAVEN-BOT&template=https://github.com/Stanking11/STANY-TZR-ZMD.git)***
- 
-
-    
-
-- Fill in the required variables into your hosting site for bot to work.
- </h2>
-     
-
-    
- 
-
-
-
-
-
-## License
-
-[MIT License](https://github.com/HunterNick2/RAVEN-BOT/blob/main/LICENSE)
-
-Copyright (c) 2025 ©𝚂𝚃𝙰𝙽𝚈 𝚃𝚉𝚁 𝚉𝙼𝙳 
+---
 
