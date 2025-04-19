@@ -1,3 +1,4 @@
+> **`STANY TZR ZMD BY STANY-TECH` *New In Town*
 ---
 
 <a><img src='https://files.catbox.moe/xmo2xp.jpg'/></a>
