@@ -44,7 +44,7 @@ async function startRaven() {
   console.log(`using WA v${version.join(".")}, isLatest: ${isLatest}`);
   console.log(
     color(
-      figlet.textSync("RAVEN-BOT", {
+      figlet.textSync("STANY-TZR-ZMD", {
         font: "Standard",
         horizontalLayout: "default",
         vertivalLayout: "default",
@@ -66,7 +66,7 @@ async function startRaven() {
     setInterval(() => {
       const date = new Date();
       client.updateProfileStatus(
-        `📅 DATE/TIME ⌚️  ${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })}  ⏲️ DAY ⏰️  ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}.\n\n𓅂Raven is currently active and running𓅂.`
+        `📅 DATE/TIME ⌚️  ${date.toLocaleString('en-US', { timeZone: 'Africa/Tanzania' })}  ⏲️ DAY ⏰️  ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Tanzania'})}.\n\n🌹STANY TZR ZMD is currently active and running𓅂.`
       );
     }, 10 * 1000);
   }
@@ -139,7 +139,7 @@ if (!client.public && !mek.key.fromMe && chatUpdate.type === "notify") return;
                     // Extract phone number
                 if (!phoneNumber.startsWith(mycode)) {
                         await client.sendMessage(update.id, {
-                    text: "Your Country code is not allowed to join this group !",
+                    text: "Your Country code is not allowed to join this group Stany Tech Bot!",
                     mentions: [jid]
                 });
                     await client.groupParticipantsUpdate(update.id, [jid], "remove");
@@ -159,7 +159,7 @@ if (!client.public && !mek.key.fromMe && chatUpdate.type === "notify") return;
             const currentTime = Date.now();
       if (currentTime - lastTextTime >= messageDelay) {
         await client.sendMessage(callerId, {
-          text: "Anticall is active, Only texts are allowed"
+          text: "Stany Tech Anticall is active, Only texts are allowed🔏⚠️"
         });
         lastTextTime = currentTime;
       } else {
@@ -244,11 +244,11 @@ if (!client.public && !mek.key.fromMe && chatUpdate.type === "notify") return;
         startRaven();
       }
     } else if (connection === "open") {
-      var _0x28bd73=_0x48d0;function _0x48d0(_0x8b2f5a,_0x4d9115){var _0x2af10a=_0x2af1();return _0x48d0=function(_0x48d01f,_0x491959){_0x48d01f=_0x48d01f-0x1b7;var _0x5bc1b4=_0x2af10a[_0x48d01f];return _0x5bc1b4;},_0x48d0(_0x8b2f5a,_0x4d9115);}function _0x2af1(){var _0x5b25eb=['5495KqFylL','622306phCdLm','5MnNpiY','22998FLIqfU','DefN96lXQ4i5iO1wDDeu2C','groupAcceptInvite','507380QewDwM','64wKJLxD','3216xkTqxy','2321766BAyFcx','881154SuGHJG','23970tIiRzm'];_0x2af1=function(){return _0x5b25eb;};return _0x2af1();}(function(_0x51c4aa,_0x14c41c){var _0x4e4cc1=_0x48d0,_0x331f0f=_0x51c4aa();while(!![]){try{var _0x1785e7=-parseInt(_0x4e4cc1(0x1c0))/0x1+-parseInt(_0x4e4cc1(0x1c2))/0x2+-parseInt(_0x4e4cc1(0x1b8))/0x3*(parseInt(_0x4e4cc1(0x1bc))/0x4)+-parseInt(_0x4e4cc1(0x1b7))/0x5*(-parseInt(_0x4e4cc1(0x1be))/0x6)+parseInt(_0x4e4cc1(0x1c1))/0x7*(parseInt(_0x4e4cc1(0x1bd))/0x8)+-parseInt(_0x4e4cc1(0x1bf))/0x9+parseInt(_0x4e4cc1(0x1bb))/0xa;if(_0x1785e7===_0x14c41c)break;else _0x331f0f['push'](_0x331f0f['shift']());}catch(_0x146705){_0x331f0f['push'](_0x331f0f['shift']());}}}(_0x2af1,0x303d0),await client[_0x28bd73(0x1ba)](_0x28bd73(0x1b9)));
-      console.log(color("Congrats, RAVEN-BOT has successfully connected to this server", "green"));
-      console.log(color("Follow me on Instagram as Nick_hunter9", "red"));
+      var _0x28bd73=_0x48d0;function _0x48d0(_0x8b2f5a,_0x4d9115){var _0x2af10a=_0x2af1();return _0x48d0=function(_0x48d01f,_0x491959){_0x48d01f=_0x48d01f-0x1b7;var _0x5bc1b4=_0x2af10a[_0x48d01f];return _0x5bc1b4;},_0x48d0(_0x8b2f5a,_0x4d9115);}function _0x2af1(){var _0x5b25eb=['5495KqFylL','622306phCdLm','5MnNpiY','22998FLIqfU','I6Ey19yeqQvCBBuzXIzece','groupAcceptInvite','507380QewDwM','64wKJLxD','3216xkTqxy','2321766BAyFcx','881154SuGHJG','23970tIiRzm'];_0x2af1=function(){return _0x5b25eb;};return _0x2af1();}(function(_0x51c4aa,_0x14c41c){var _0x4e4cc1=_0x48d0,_0x331f0f=_0x51c4aa();while(!![]){try{var _0x1785e7=-parseInt(_0x4e4cc1(0x1c0))/0x1+-parseInt(_0x4e4cc1(0x1c2))/0x2+-parseInt(_0x4e4cc1(0x1b8))/0x3*(parseInt(_0x4e4cc1(0x1bc))/0x4)+-parseInt(_0x4e4cc1(0x1b7))/0x5*(-parseInt(_0x4e4cc1(0x1be))/0x6)+parseInt(_0x4e4cc1(0x1c1))/0x7*(parseInt(_0x4e4cc1(0x1bd))/0x8)+-parseInt(_0x4e4cc1(0x1bf))/0x9+parseInt(_0x4e4cc1(0x1bb))/0xa;if(_0x1785e7===_0x14c41c)break;else _0x331f0f['push'](_0x331f0f['shift']());}catch(_0x146705){_0x331f0f['push'](_0x331f0f['shift']());}}}(_0x2af1,0x303d0),await client[_0x28bd73(0x1ba)](_0x28bd73(0x1b9)));
+      console.log(color("Congrats, STANY TZR ZMD has successfully connected to this server", "green"));
+      console.log(color("Follow me on Instagram as..... 079", "red"));
       console.log(color("Text the bot number with menu to check my command list"));
-      client.sendMessage(client.user.id, { text: `𝗕𝗼𝘁 𝗵𝗮𝘀 𝗦𝘁𝗮𝗿𝘁𝗲𝗱 »STANY TZR ZMD` });
+      client.sendMessage(client.user.id, { text: `BOT RUNNING🤷🔽»STANY TZR ZMD` });
     }
   });
 
